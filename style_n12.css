@@ -92,3 +92,11 @@ textarea {
 	display: block;
 	background-color: aliceblue;
 }
+
+footer {
+	border: 2.4px solid #ccc;
+	margin-top: 10px;
+	padding: 10px;
+	display: block;
+	background-color: aliceblue;
+}
